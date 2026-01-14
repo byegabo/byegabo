@@ -4,8 +4,6 @@
 - 📖No momento estudando Python
 - 😝Pronouns: any
 <div>
-   <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byegabo&theme=gruvbox&show_icons=true" />
-   <img width="550px" src="https://github-readme-stats.vercel.app/api?username=byegabo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact">
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
   <img align="center" alt="Gabo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
