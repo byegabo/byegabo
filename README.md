@@ -1,6 +1,6 @@
 ## Oii! Me chamo Gustavo Graffitti, estudante de Análise e Desenvolvimento de Sistemas 😸
 
-- 🎒4º Semestre
+- 🎒5º Semestre
 - 📖No momento estudando Python
 - 😝Pronouns: any
 <div>
