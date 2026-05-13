@@ -1,7 +1,7 @@
 ## Oii! Me chamo Gustavo Graffitti, estudante de Análise e Desenvolvimento de Sistemas 😸
 
 - 🎒5º Semestre
-- 📖No momento estudando Python
+- 📖No momento estudando TypeScrit (Focando em Angular e Ionic)
 - 😝Pronouns: any
 <div>
 <div style="display: inline_block"><br>
