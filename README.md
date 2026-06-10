@@ -1,25 +1,34 @@
-## Oii! Me chamo Gustavo Graffitti, estudante de Análise e Desenvolvimento de Sistemas 😸
 
-- 🎒5º Semestre
-- 📖No momento estudando TypeScrit (Focando em Angular e Ionic)
-- 😝Pronouns: any
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
-  <img align="center" alt="Gabo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
-  <img align="center" alt="Gabo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
-</div>
+<h4 align="center"> CyberSecurity Analyst / Systems Analysis and Development Student </h4> 
 
-  ##
-   <img align="right" alt="Gabo-gif" src="https://cdn.discordapp.com/attachments/1142976849383800882/1430336454675923025/a9t8cz.gif?ex=68f96821&is=68f816a1&hm=b0c39db5c1e36a8cc1e6b36f4be841ecc6211a77869ad38b007f468c3ca7ab8e&">
- 
-<div> 
-  <a href="https://www.instagram.com/gabotheveil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/gabotheveil" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavograffitti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabo-graffitti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 👋 Hi, I’m Gustavo Pereira.
+- 👩🏾‍💻 I'm a Systems Analyst student at @fmp (Faculdade Municipal de Palhoça) and a self-taught web developer;
+- 💻 In my free time im always studying Angular / Python / Tailwind CSS :3
+- 📫 How to reach me: gustavograffitti@gmail.com
+<br>
+
+<div style="display: inline_block" align="left">
+  
+<!-- Top Lang    -->
+<img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beathedev&theme=gruvbox&show_icons=true" />
+  
+<!-- Stats  -->
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=beathedev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact">
   
 </div>
+<div style="display: inline_block" align="left">
+ 
+ <!--  <h4> My Stack ⌨🖱 </h4> -->
+  
+<!--   [![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square-badge&logo=html5&logoColor=white&link=)]() -->
+<!--  [![CSS3 Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square-badge&logo=css3&logoColor=white&link=)]() -->
+<!--  [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square-badge&logo=javascript&logoColor=white&link=)]() -->
+<!-- C# <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> --> 
+<!-- .NET  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
+<!--  [![React Badge](https://img.shields.io/badge/React-16A9F5?style=flat-square-badge&logo=React&logoColor=white&link=)]() -->
+<!--  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> -->
+<!--  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> -->
+  
+</div>
+
+
