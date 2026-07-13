@@ -1,5 +1,5 @@
 
-<h4 align="center"> CyberSecurity Analyst / Systems Analysis and Development Student </h4> 
+<h4 align="center"> CyberSecurity Analyst / Systems Analyst and Developer </h4> 
 
 - 👋 Hi, I’m Gustavo Pereira.
 - 👩🏾‍💻 I'm a Systems Analyst student at @fmp (Faculdade Municipal de Palhoça) and a self-taught web developer;
